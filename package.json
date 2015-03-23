@@ -1,0 +1,18 @@
+{
+  "name": "kyoiku-kanji",
+  "version": "0.1.0",
+  "description": "A list of the Kyoiku Kanji",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesknelson/node-kyoiku-kanji.git"
+  },
+  "keywords": [
+    "kyoiku",
+    "kanji",
+    "japanese",
+    "linguistics"
+  ],
+  "author": "James K Nelson <james@jamesknelson.com> (http://jamesknelson.com/)",
+  "license": "MIT"
+}
